@@ -1,0 +1,11 @@
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\bin\iPhoneSimulator\Debug\HelloWorld.exe
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\bin\iPhoneSimulator\Debug\HelloWorld.pdb
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\obj\iPhoneSimulator\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\obj\iPhoneSimulator\Debug\HelloWorld.exe
+C:\Users\Rob\Documents\235IM\Hello World\HelloWorld\HelloWorld\obj\iPhoneSimulator\Debug\HelloWorld.pdb

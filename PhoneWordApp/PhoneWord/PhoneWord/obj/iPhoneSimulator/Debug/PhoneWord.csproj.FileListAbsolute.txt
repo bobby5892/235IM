@@ -1,0 +1,13 @@
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\bin\iPhoneSimulator\Debug\PhoneWord.exe
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\bin\iPhoneSimulator\Debug\PhoneWord.pdb
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\PhoneWord.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\PhoneWord.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\PhoneWord.exe
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhoneSimulator\Debug\PhoneWord.pdb
