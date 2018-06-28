@@ -1,0 +1,12 @@
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\bin\iPhone\Debug\PhoneWord.exe
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\bin\iPhone\Debug\PhoneWord.pdb
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\optimized\Entitlements.plist
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\optimized\
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\PhoneWord.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\PhoneWord.exe
+C:\Users\Rob\Documents\235IM\PhoneWordApp\PhoneWord\PhoneWord\obj\iPhone\Debug\PhoneWord.pdb
